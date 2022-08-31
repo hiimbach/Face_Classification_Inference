@@ -1,0 +1,4 @@
+outs:
+- md5: 83a433b4d1682b2722bbc62bb87123fe
+  size: 273322506
+  path: Face_classifier_Final.pt
